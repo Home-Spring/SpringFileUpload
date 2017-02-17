@@ -1,11 +1,11 @@
 
-Spring 4 MVC Single and Multiple File Upload Example with Tomcat
+[Spring 4 MVC Single and Multiple File Upload Example with Tomcat](http://www.concretepage.com/spring-4/spring-4-mvc-single-multiple-file-upload-example-with-tomcat)
 ----------------------------------------------------------------
 > Реализация загрузки несколких файлов (одновременно) с помощью фреймворка **Spring 4 MVC**:
 
 - [concretepage.com/spring-4/spring-4-mvc-single-multiple-file-upload-example-with-tomcat](http://www.concretepage.com/spring-4/spring-4-mvc-single-multiple-file-upload-example-with-tomcat)
 - JDK-1.7
-- Maven-2.x
+- Maven-2.x  **(** Gradle 2.0 **)**
 - Tomcat-1.8
 
 - билд: **file-storage**  **(** file-storage.war **)**
